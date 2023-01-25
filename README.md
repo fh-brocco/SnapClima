@@ -1,0 +1,2 @@
+# SnapClima
+API de clima
