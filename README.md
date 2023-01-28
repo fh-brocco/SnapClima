@@ -1,2 +1,3 @@
 # SnapClima
-API de clima
+
+API de clima em tempo real
